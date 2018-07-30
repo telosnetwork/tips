@@ -12,4 +12,4 @@ detailed explanation.
 Number             | Title                                                    | Owner             | Type           | Status
 -------------------|----------------------------------------------------------|-------------------|----------------|--------
 [1](tip-0001.md)  | TIP Purpose and Guidelines                              | Robert Konsdorf      | Informational  | Draft
-[2](tip-0002.md)  |  A Bounty System for Slicing the Telos Founders Rewards Pool Proportionally Amongst Contributors                     | Robert Konsdorf  | Informational       | Proposed
+[2](tip-0002.md)  |  A Bounty System for Slicing the Telos Founders Rewards Pool Proportionally Amongst Contributors                     | Robert Konsdorf  | Informational       | Draft
