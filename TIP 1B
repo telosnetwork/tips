@@ -1,0 +1,58 @@
+TIP:  0001B
+Title:  Establishment and Rules of the Telos Community Rewards Pool
+Authors: Douglas Horn <douglas@goodblock.io>
+Status: Draft
+Type: Informational
+Created: 2018-07-20
+
+# Abstract
+
+This TIP proposes the establishment of a Telos Community Rewards Pool to engage community members in the Telos project and reward them with TLOS tokens for their contributions.
+
+# Motivation
+
+The members of the Telos Launch Group overwhelmingly voted on July 18 to create a Telos Community Reward Pool to reward those who contribute to the project through media creation or similar community building and promotional efforts. Many details of the proposal are unresolved.
+
+# Rationale
+
+The Telos Launch Group has discussed this issue and deemed it important. An earlier draft of this TIP was presented in another format. The TLG has voted twice on the matter. First on 2018-07-23 to adopt the general idea of the TCRP and again on 2018-08-01 to designate that the total value of the TCRP be up to 1,000,000 TLOS with the provision that the fund's excess coins can be burned or donated if there is insufficient participation to merit this amount.
+
+# Specifications
+
+1.	The total amount of the TCRP shall be 1,000,000 TLOS tokens. There shall be a maximum amount received per person and tokens in excess of this amount will be burned or donated.
+
+2.	TLG members may choose to earn rewards under either the TFRP or the TCRP but not both.
+
+3.	The TCRP will be divided into sub-pools. For example:
+a.	YouTube – 25% of TCRP
+b.	Twitter – 25%
+c.	Facebook – 20%
+d.	Reddit – 10%
+e.	Medium – 10%
+f.	Steemit – 7%
+g.	Bitcointalk.org – 3%
+
+4.  It is a priority to also consider social media outlets that are popular in other parts of the world besides North America and Europe where the majority of the current TLG members reside. Suggestions include China's Weibo/WeChat and Korea's KakaoTalk apps.
+
+5.  A suggestion has been made to include exchange-related bounty programs or campaigns to get large numbers of people to approach their exchanges asking to add TLOS tokens.
+
+6.	The rules for TCRP participants. Suggestion:
+a.	Each participant must register with TLG listing the social media channel(s) they will contribute in, as well as a Telos public key rewards will be deposited to.
+b.	Each piece of content must include links to at least one official Telos social media outlet (e.g. web site, YouTube channel, Telos twitter).
+c.	Content must not be negative to Telos.
+
+7.	Each sub-pool will have its own definitive metric. Suggestion:
+a.	YouTube – # of total minutes watched
+b.	Twitter – # of __
+c.	Facebook – # of likes
+d.	Reddit – # of upvotes
+e.	Medium – # of upvotes
+f.	Steemit – # of upvotes
+g.	Bitcointalk.org – # of messages posted with Telos Footer with 2x multipliers for each bitcointalk.org membership level starting at Jr Member. (e.g. Jr member = 1, Member = 2, Sr Member = 4, etc)
+
+8.	At Telos network activation, each contributor’s metrics will be calculated in each sub-pool. Each contributor’s share of the rewards will be their percentage of any sub-pool’s total shares.
+a.	It is expected to take up to 4 weeks to calculate and distribute TCRP rewards.
+
+# Copyright
+
+This document is in the public domain.
