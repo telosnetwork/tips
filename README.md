@@ -16,3 +16,5 @@ Number             | Title                                                    | 
 [3](tip-0003.md)  | Establishment of common-use snapshots for airgrabs | Jesse Schulman | Informational | Draft
 [4](tip-0004.md)  | TIP-4 Premium names and name squatting prevention | Josep Rosich | Protocol | Draft
 [5](tip-0005.md)  | TIP-5 Single Token Registry Standard | Craig Branscom | Protocol | Draft
+
+[7](tip-0007.md)  | TIP-7 The First Sustainable Blockchain | Sukesh Kumar Tedla | Informational | Draft
