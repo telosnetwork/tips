@@ -17,6 +17,6 @@ Number             | Title                                                    | 
 [4](tip-0004.md)  | TIP-4 Premium names and name squatting prevention | Josep Rosich | Protocol | Draft
 [5](tip-0005.md)  | TIP-5 Single Token Registry Standard | Craig Branscom | Protocol | Draft
 [7](tip-0007.md)  | Establishment and Rules of the Telos Community Rewards Pool (formerly TIP-1B | Douglas Horn | Informational | Draft
-[9](tip-0009.md)  | Telos “Original” Snapshot Creation | Douglas Horn | Informational | Draft
-[10](tip-0010.md)  | Telos Chain Activation Process | Douglas Horn | Informational | Draft
-[11](tip-0011.md)  | TLOS Token Exchange Reserve | Douglas Horn | Informational | Draft
+[9](tip-0009.md)  | Telos “Original” Snapshot Creation | Douglas Horn | Protocol | Draft
+[10](tip-0010.md)  | Telos Chain Activation Process | Douglas Horn | Protocol | Draft
+[11](tip-0011.md)  | TLOS Token Exchange Reserve | Douglas Horn | Protocol | Draft
