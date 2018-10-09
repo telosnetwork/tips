@@ -1,119 +1,186 @@
-# Telos Network Operating Agreement
+# Telos Blockchain Network Operating Agreement
 
 
 ## 1. Preamble
-This document is intended to set common agreements among all users of the Telos network in order to establish a secure, stable, governable blockchain where value and information can be stored and all disputes shall be arbitrated solely using the methods described herein. The Telos network is comprised of Members who have chosen to organize themselves using a computer blockchain as a form of transnational exchange of value, information, and commerce. This network has agreed to govern the Telos blockchain, its transactions and native token by means of this Agreement which enumerates a set of mutual representations and agreements amongst its users.
+
+This document is intended to set common agreements among all users of the Telos Blockchain Network in order to establish a secure, stable, and governable blockchain where value and information can be stored and all disputes shall be arbitrated solely using the methods described herein and within the “Telos Governance Documents” comprised of this Agreement, the Telos Blockchain Network Arbitration Rules and Procedures, the Telos “regproducer” contract human language terms, the Telos “regarb” contract human language terms, the Telos Block Producer Minimum Requirements, the Telos Arbitrator Minimum Requirements and Telos Blockchain Network Data Protection Policy. The Telos Blockchain network is comprised of Members (as defined below) who have chosen to organize themselves using a computer blockchain as a form of transnational exchange of value, information, and commerce. This network has agreed to govern the Telos blockchain, its transactions and native token by means of this Telos Blockchain Network Operating Agreement (this “Agreement”) which enumerates a set of mutual representations and agreements amongst its users.
 
 ## 2. Choice of Law
-Any person who uses the Telos network to store, exchange, or process value or information shall be herein referred to as a “Member”. Each Member agrees to be bound exclusively by the terms of this Agreement or the most current Telos Network Operating Agreement ratified or amended in accordance with the terms herein, and to select the terms of the current Agreement at the time of the transaction as binding in the interactions between them regarding any and all value and information stored on the Telos blockchain.
 
-## 3. Modifying the Blockchain
-The Telos blockchain shall be amended only through appending new information into current blocks. The blockchain shall never be rolled back to revise recorded transactions or blocks.
+Any person or entity who uses the Telos Blockchain Network to store, exchange, or process value or information shall be herein referred to as a “Member.” Each Member agrees to be bound exclusively by the terms of this Agreement or the most current Telos Blockchain Network Operating Agreement ratified or amended in accordance with the terms herein, and to select the terms of the current Agreement at the time of the transaction as binding in the interactions between them regarding any and all value and information stored on the Telos blockchain. It is the responsibility of each Member to abide by their local terrestrial laws and statutes.
 
-## 4. Recording of Values and Information
-The Telos blockchain shall be used to record value and information and to perform computations pertaining to these. The native unit of value on the Telos blockchain shall be the TLOS token. Each TLOS token shall represent a percentage of the usage resources of the Telos blockchain in direct relation to the total number of TLOS tokens that are recorded on the blockchain. As a pro rata percentage of resource usage rights, each TLOS token shall entitle its owner to proportional voting rights and use of the Telos blockchain’s operational computer resources.
+## 3. Recording of Values and Information
 
-## 5. Operation of the Blockchain 
-The Telos blockchain reaches consensus regarding the values and transactions it records using delegated proof of stake, whereby network validating nodes (“Block Producers”) and standby validating nodes (“Standby Block Producers”) are selected by the votes of the TLOS token holders to serve as delegates in the processing and validating of transactions and blocks in the blockchain according the technical specifications of the Telos branch of the EOSIO software. Telos Members shall elect block producers from among all block producer candidates to execute the “regproducer” action. Only those candidates in compliance with the current Block Producer Minimum Requirements shall be eligible to serve and any block producer candidates not in compliance shall be prevented from serving regardless of voting results. Telos shall have 21 elected block producers and may also have up to 30 standby block producers at any time, provided that there are at least 51 block producer candidates meeting the terms of the Telos Block Producer Minimum Requirements which shall be amended from time to time by a vote of the Members using t he “ratifyamend” system contract.
+The Telos blockchain shall be used to record value and information and to perform computations pertaining to these. This information shall be recorded in a continuous chain of blocks of transactions and cryptographic security information (“Blocks”) which are tested and validated by computer nodes on the network (“Validating Nodes”).
 
-## 6. Functions of Block Producers
-Block Producers shall operate computer and networking equipment in accordance with the Telos Block Producer Minimum Requirements. Block producers are to produce blocks at their scheduled time in accordance with the human-language terms of the “regproducer” contract. As the executive authority of the Telos blockchain, the block producers, in aggregate, have broad executive powers over the Telos blockchain. They may pause the blockchain, implement new software updates, print new tokens, implement additional operational rules for the blockchain that do not violate the Agreement, and enforce duly processed arbitration orders by voting for any such action with a majority vote of 2/3+1 elected block producers.
+## 4. Accounts
 
-## 7. Block Producer Pay
-Block producers shall be paid each day by dividing the daily share of 1% annual inflation of the entire value of the Telos blockchain as measured in TLOS tokens. Every day, each Block Producer shall be allotted an equal share of the daily pay and each Standby Block Producer shall be allotted one-half of this amount, with the provision that Block Producers and Standby Block Producers may have their daily pay allotment deducted in proportion with the percentage of blocks they were expected to produce in their most recent production period of 24 hours or fewer, but failed to produce. Block producers are responsible for collecting their pay allotment by executing the “claimrewards” action daily. If loss of pay results from failing to regularly execute the “claimrewards” action, the loss shall be borne by the Block Producer or Standby Block Producer, not the network.
+Each Member may control one or more accounts on the blockchain. Accounts record the ownership of various tokens and resources and are controlled by cryptographic keys. Accounts may publish smart contracts including contracts that issue new tokens.
 
-## 8. Binding Arbitrations
-All Members of the Telos blockchain agree to be bound to binding arbitration by Telos Arbitrators except where both parties of a transaction explicitly choose to waive such arbitration. Waiving of arbitration waives all forms of dispute resolution; it does not invite terrestrial jurisdictions to arbitrate transactions on the Telos blockchain and neither Telos arbitrators nor block producers are required by this Agreement to fulfill the orders of any terrestrial government in the operations of the Telos blockchain.
+## 5. Native Unit of Value
 
-## 9. Selection of Arbitration Forum
-The parties to each transaction on the Telos blockchain may select an arbitration forum when each party freely elects to use the same arbitration forum. If no election for a common alternative forum is so recorded in the transaction, then the arbitration forum shall be the Telos Arbitration Organization (the “TAO”).
+The native unit of value on the Telos blockchain shall be the TLOS token. Each TLOS token shall represent a percentage of the usage of the Telos blockchain shared resources in direct relation to the total number of TLOS tokens that are recorded on the blockchain. As a pro rata percentage of shared resource usage rights, each TLOS token shall entitle the account holding it to proportional voting rights and use of the Telos blockchain’s operational computer resources.
 
-## 10. Formation of the TAO
-The TAO shall be comprised of Arbitrators meeting the terms of the Telos Arbitrators Minimum Requirements which shall be amended from time to time by the Members using the “ratifyamend” system contract. Telos Members shall elect TAO arbitrators from among all arbitrator candidates to execute the “regarbitrator” action, however, only those candidates in compliance with the current Arbitrator Minimum Requirements shall be eligible to serve and any arbitrator candidates not in compliance shall be prevented from serving regardless of voting results. The number of elected Arbitrators at any time and the method for deciding the terms under which some number of arbitrators will be assigned to each arbitration case shall be decided by the most recent 2/3+1 vote of all Block Producers.
+## 6. Operation and Execution of the Blockchain
 
-## 11. Initiating Arbitration
-Telos network Members submit to binding arbitration in all matters pertaining to value or information stored on the Telos blockchain. Arbitration shall be initiated by executing the “arbitration” contract. To execute the “arbitration” contract a Member seeking restitution (the “Plaintiff”) must provide information about the account seeking restitution, the account it is seeking restitution against(the “Respondent”), and the pertinent transaction or transactions. The Plaintiff shall provide evidence of theft, fraud, breach of the human-language contract, or failure of contract code to fulfill the stated intent of the human-language section of the contract.
+The Telos blockchain reaches consensus regarding the values and transactions it records using delegated proof of stake, whereby active Validating Nodes (“Block Producers”) and standby Validating Nodes (“Standby Block Producers”) are elected by the votes of the TLOS token holders to serve as delegates in the processing and validating of transactions and blocks in the blockchain according the technical specifications of the Telos branch of the EOSIO software.
 
-## 12. Selection of Arbitrator
-Upon initial execution of the “arbitration” contract, an Arbitrator or set of Arbitrators shall be assigned randomly from all elected Arbitrators currently in compliance with the Arbitrator Minimum Requirements that have identified themselves as currently available to receive new cases. If insufficient Arbitrators meet these requirements when the “arbitration” contract is initiated, the case will be queued until sufficient Arbitrators are available. The number of Arbitrators assigned to any case shall follow the most recent set of terms enacted by a 2/3+1 majority of all Block Producers.
+## 7. Modifying the Blockchain
 
-## 13. Freezing Accounts Under Arbitration
-Upon assignment of Arbitrators to an arbitration case, any Arbitrator assigned to the case may issue an emergency order to freeze all transactions from the Respondent account. The Arbitrator may add the account to a list of frozen accounts maintained on the Telos blockchain, which all Block Producers shall reference and exclude from validating transactions.
+Transactions on the Telos blockchain shall be reversible only until the Block Producers reach final consensus regarding the validity of the block containing them. Once 2/3 of the Block Producers have proposed a block to be valid and an additional Block Producer has accepted the proposed valid block, then it shall be deemed an “Irrevocable Block.” The Telos blockchain shall never amend any Irrevocable Block. Modifications to the blockchain may only be made through rejecting blocks not yet accepted as Irrevocable Blocks and through appending new information into current blocks.
 
-## 14. Rights of the Arbitration Respondent
-The Respondent in any arbitration case shall be informed of the initiation of an arbitration action no sooner than three hours after initiation of the action or upon the freezing of transactions upon the account whichever comes first, and no later than 24 hours after initiation. Any Respondent whose account is frozen shall have the right to have the freezing order removed from Respondent’s account upon posting a bond to another frozen account in the amount under arbitration as determined by the Arbitrator or Arbitrators in the case. The Arbitrator or Arbitrators must determine the amount under arbitration within 72 hours of issuing a freezing order. If the amount under arbitration is the entire value of the account, the Respondent may not post a bond. The Respondent also has the right to see the evidence submitted and prepare a defense and provide evidence to respond to the Plaintiff’s evidence. The Respondent also has the right to receive a timely resolution of the case. A “timely resolution” shall be determined in relation to other similar arbitration cases in the preceding 12-month period. Failure to resolve an arbitration action within a time period that is within one standard deviation of the average time period required to arbitrate a case with the same number of Arbitrators assigned to it shall place the arbitration case into expedited status which shall provide an additional 72 hours in which to decide the outcome of the case or else drop the case without penalty or arbitration fee. The requirement for timely resolution of arbitration cases shall be suspended until 15 months after the first Telos arbitration case is completed. 
+## 8. Block Producer Nomination, Qualification, and Election
 
-## 15. Preference for Cryptographic Evidence
-In the adjudication of arbitration cases, evidence in the form of valid cryptographic proof of ownership or prior transaction shall be deemed of greater value than any other form of evidence.
+Any Telos Member may self-nominate as a candidate to be a Block Producer by executing the “regproducer” contract and accepting its human-language terms. The Telos blockchain maintains a list of minimum requirements for acting as a Block Producer or Standby Block Producers (the “Block Producer Minimum Requirements”). The 21 block producer candidates currently in compliance with the Block Producer Minimum Requirements receiving the highest weight of Member votes shall serve as Block Producers. The 30 block producer candidates currently in compliance with the Block Producer Minimum Requirements and not serving as Block Producers receiving the highest weight of Member votes shall serve as Standby Block Producers. Enforcement of compliance with the Block Producer Minimum Requirements shall be by the “enforcebpmins” contract.
 
-## 16. Submission of Arbitration Judgement
-An Arbitrator or Arbitrators in a case shall render their arbitration judgement in the form of a transaction or set of transactions to be appended to the Telos blockchain by the duly elected Block Producers at the time the judgement is rendered. The transactions shall be in the form of a standard value transfer transaction from Respondent to Plaintiff, a “revisecontract” action which forcibly adjusts the code of a faulty or misleading contract, or a “changekeys” action which assigns new private keys to an account that has been adjudicated to have been improperly acquired by Respondent from Plaintiff. The Arbitrator or Arbitrators shall also provide a public explanation of the rationale for the judgement. The arbitration judgement may include transactions to pay the arbitration fee associated with the case.
+## 9. Functions of Block Producers
 
-## 17. Block Producers’ Obligation to Enforce Arbitration Judgements
-Block Producers, having been duly provided with a valid arbitration judgement, shall fully enforce the judgement within 24 hours of receipt. Every Block Producer shall be required to enforce the action and any Block Producer that has not voted to enforce the action within 24 hours shall be liable for penalty under the “enforcebpmins” action until the adjudication action is fully enforced. 
+Block Producers shall operate infrastructure in accordance with the Telos Block Producer Minimum Requirements. Block Producers are to produce blocks at their scheduled time in accordance with the human-language terms of the “regproducer’” contract. As the executive authority of the Telos blockchain, the Block Producers, in aggregate, have broad executive powers over the Telos blockchain. They may pause the Telos blockchain, implement new software updates, print new tokens, implement additional operational rules for the blockchain that do not violate the Agreement, and enforce duly processed arbitration orders by voting for any such action with a majority vote of 2/3+1 Block Producers.
 
-## 18. Arbitration Fees
-TAO Arbitrators may charge a fee for arbitration services in the amount of up to 3% of the total amount requested in the initial execution of the “arbitration” contract. Alternative arbitration forums may set their own fees as long as those fees are clearly stated to all prior to contract execution. When the Arbitrators find for the Plaintiff, the amount of the arbitration fee may be added to the judgement about taken from the Respondent. Multiple Arbitrators shall divide any arbitration fee amongst themselves evenly. 
+## 10. Block Producer Pay
 
-## 19. Limits of Action
-Arbitration actions cannot roll back transactions on the blockchain. All actions are limited to those enumerated. In the case where funds have already been removed from the Telos blockchain, arbitration judgements are limited to amounts still available in Respondent’s account. A judgement may be recorded and entered against future funds linked to the same individual or entity who owned the original Respondent account, if a future arbitration case can sufficiently prove that the same individual or entity controls both accounts. In the event that multiple accounts are entered against the same account, the adjudication that was first initiated will have priority over subsequent judgements until all funds are allocated or all entered judgements are settled.
+Block Producer and Standby Block Producers shall be paid each day from a daily fund consisting of the daily share of 1% annual inflation of the entire value of the Telos blockchain as measured in TLOS tokens. Every day, this total amount shall be allocated such that each Block Producer receives the same pay for the time spent as a Block Producer as every other Block Producer and each Standby receives pay that is half of the rate of each Block Producer for its time spent as a Standby, with the provision that Block Producers and Standby Block Producers may have their daily pay allotment deducted in proportion with the percentage of blocks they were expected to produce in their most recent production period of 180,000 blocks (approximately 24 hours) or fewer, but failed to produce. Loss of pay from failing to regularly execute the “claimrewards” action, shall be borne by the Block Producer or Standby Block Producer, not the network.
 
-## 20. Sudo Powers
-The Block Producers have the authority to use the “sudo” command to execute commands on an account as if by the owner, or a similarly powered command if under a different name, only as an element of the “revisecontract” action which forcibly adjusts the code of a faulty or misleading contract, or a “changekeys” action which assigns new private keys to an account that has been adjudicated to have been improperly acquired, and only in cases of an adjudication judgement entered by an Arbitrator or Arbitrators in due process of a bona fide arbitration case.
+## 11. Binding Arbitrations
 
-## 21. Voting
-Telos Members may vote to elect block producer and arbitrator candidates as described in this Agreement. Each Member may vote the entire number of TLOS tokens in any account they control via private keys. Members may vote for up to 30 block producer candidates and 30 TAO arbitrator candidates at any time and each vote for any candidate will share the same weight as that of all the other candidates of the same type, either block producer or arbitrator. Members may alternatively designate a proxy to cast their votes for them. All votes, whether cast directly or by proxy shall have their voting weight reduced according to a non-linear equation known as inverse-weighted voting, as expressed in the Telos code, whereby the value of a vote is reduced when fewer than the maximum amount of allowed candidates are cast. This form of voting is to encourage voting for a large number of candidates and discourage voting only for candidates that are affiliated with the voter.
+All Members of the Telos blockchain agree to be bound to binding arbitration by Members elected by the votes of the TLOS token holders to serve this function (“Elected Arbitrators”), or by other arbitration forums that Members freely agree upon except where both parties of a transaction explicitly choose to waive such arbitration. Members expressly waive all rights to have matters pertaining to value or information stored on the Telos blockchain decided in a court of any terrestrial jurisdiction. Any dispute arising out of or in connection with this Agreement, including any question regarding its existence, validity or termination, shall be referred to and finally resolved by arbitration by one or more Telos Elected Arbitrators in accordance with the Arbitration Rules of the Telos Blockchain Network Arbitration Rules and Procedures for the time being in force, which rules are deemed to be incorporated by reference in this clause. Other arbitration forums may be used under that forum’s rules when freely selected by both parties at the time of contract execution, and when the dispute does not question the existence, validity, or termination of this Agreement. Any dispute questioning the existence, validity, or termination of this Agreement must be resolved by arbitration by one or more Telos Elected Arbitrators in accordance with the Arbitration Rules of the Telos Blockchain Network Arbitration Rules and Procedures for the time being in force, which rules are deemed to be incorporated by reference in this clause.
 
-## 22. Creating and Populating Initial Token Accounts
-The initial distribution of TLOS tokens on the Telos network (“Telos Initial Distribution”) will follow the EOS ERC-20 token snapshot as recorded June 2, 2018 from records of the EOS tokensale as recorded on the Ethereum blockchain (the “EOS Snapshot”). The Telos Initial Distribution will create all accounts included on the EOS Snapshot with the same account names and public keys that match except for the prefix “TLOS” instead of “EOS”. These accounts will each be recorded as having the same number of TLOS tokens as the number of EOS on the corresponding account in the EOS Snapshot, except that each account that has a balance of over 40,000 tokens will receive exactly 40,000 TLOS tokens. It is expected that this will alter less than 1,100 total accounts. Additional new Telos accounts will be created to fund the Telos Foundation, which will receive 6,000,000 TLOS tokens, the Telos Founders’ Rewards Pool, which will receive 6,000,000 TLOS tokens, and the Telos Community Rewards Pool, which will receive 1,000,000 TLOS tokens.
+## 12. Arbitration Exclusions
 
-## 23. Requirement to Opt In
-The Telos Initial Distribution will include all accounts from the EOS Snapshot. However, it is unknown which EOS Snapshot account owners may wish to opt in and become Members of the Telos network. Because TLOS tokens reflect a pro rata usage right for network resources, maintaining TLOS tokens on the system that are not wanted by their owners represents a loss of network resources for all other Members. For this reason, all accounts that have 0 transactions 365 days after the activation of the Telos network are subject to deletion by the block producers at that time or any time thereafter. Tokens in any deleted accounts will be deleted from the blockchain, which is commonly referred to as “burning” the tokens.
+Waiving of arbitration waives all forms of dispute resolution; it does not invite terrestrial jurisdictions to arbitrate transactions on the Telos blockchain. Neither Elected Arbitrators nor Block Producers are required by this Agreement to fulfill the orders of any terrestrial jurisdictions in the operations of the Telos blockchain.
 
-## 24. Telos Worker Proposal Fund
-A value equal to the daily share of 1.5% annual inflation of the entire value of the Telos blockchain as measured in TLOS tokens shall be deposited to the Telos Worker Proposal Fund. Telos Members may submit proposals for the usage of these accumulated funds. Submitting a fund for a proposal shall require payment of a fee determined by the most recent 2/3+1 majority vote of the Block Producers, provided that this fee will never exceed two times the actual cost in network resources of voting the proposal by all Telos Members. Any Telos Member or group of Members may execute the “workerproposalsubmission” contract by providing the required information including, at least, a full description of the proposal, a link to a fixed source of information, and the exact deposit transaction, including deposit account or accounts, that will occur should the proposal be accepted by the Telos Members. Once submitted, there will be a period of 60 days in which a proposal may be voted. Any proposal that receives no less than 7% vote participation among TLOS tokens and a simple majority of Yes votes at the end of 60 days shall enact the proposal and execute the deposit transaction described in the proposal.
+## 13. Selection of Arbitration Forum
 
-## 25. No Perjury
-Members shall be liable for losses caused by false or misleading attestations and shall forfeit any profit gained thereby.
+The parties to each transaction on the Telos blockchain may select an arbitration forum when each party freely elects to use the same arbitration forum. If no election for a common alternative forum is so recorded in the transaction, then the arbitration forum shall be the Elected Arbitrators.
 
-## 26. No Fiduciary
-No Member nor TLOS token holder shall have fiduciary responsibility to support the value of the TLOS token. The Members do not authorize anyone to hold assets, borrow, nor contract on behalf of TLOS token holders collectively. This blockchain has no owners, managers or fiduciaries.
+## 14. Elected Arbitrator Nomination, Qualification, and Election
 
-## 27. Publication to the Telos Blockchain
-All transactions on the Telos blockchain shall be irrevocably recorded to the blockchain. Members agree not to record information, data, or content that they are not free to record. Each Member grants all other Members an irrevocable license to view any information or transactions recorded to the blockchain. The Telos network shall not remove any information from the blockchain and shall bear no responsibility or enforcement role for any information, data, or content improperly recorded on the blockchain. Any penalties or judgements for improperly recorded information, data, or content shall be the sole responsibility of the account that posted it.
+Any Telos Member may self-nominate as a candidate to be an Elected Arbitrator by executing the “regarbitrator” contract and accepting its human-language terms. The Telos blockchain maintains a list of minimum requirements for acting as an Elected Arbitrator (the “Elected Arbitrator Minimum Requirements”). The number of Elected Arbitrators at any time and the method for deciding the terms under which some number of Elected Arbitrators will be assigned to each arbitration case shall be decided by the most recent 2/3+1 vote of all Block Producers. The arbitrator candidates currently in compliance with the Elected Arbitrator Minimum Requirements and receiving the highest weight of Member votes shall serve as Elected Arbitrators. Enforcement of compliance with the Elected Arbitrator Minimum Requirements shall be by the “enforcearbmins” contract.
 
-## 28. Restitution
-Each Member agrees that penalties for breach of contract may include, but are not limited to, fines, loss of account, and other restitution.
+## 15. Arbitration Rules and Procedures
 
-## 29. Developers
-Each Member who makes available a smart contract on the Telos blockchain (a “Developer”) may designate original elements of their contracts as either Open Source or proprietary code. Each smart contract shall be documented with a human-language contract stating the intent of all parties and naming the Arbitration Forum that will resolve disputes arising from that contract. Developers who designate contracts as proprietary code may claim that code as intellectual property and may initiate arbitration actions against those who violate their control of their intellectual property for restraint and/or restitution.
+The Telos Blockchain Network Arbitration Rules and Procedures document describes the rules and procedures for arbitration.
 
-## 30. Prevailing Language
-Human-language contracts employing more than one language must specify one prevailing language in case of dispute and the author of any translation shall be liable for losses due to their false, misleading, or ambiguous attested translations. Where no prevailing contract language is specified, the prevailing contract language shall be either English, if it is used in the contract, or the first language used to write a complete sentence, if English is not used.
+## 16. Freezing Accounts Under Arbitration
 
-## 31. Recording of Agreement
-The text of this Agreement or the most currently ratified or amended version of the Agreement shall be recorded on the Telos blockchain and each block will contain a pointer to the block containing the text of this Agreement. Validating any block shall be deemed a further acceptance of all terms of this contract.
+Upon assignment of an Elected Arbitrator(s) to an arbitration case, any Assigned Arbitrator may issue an emergency order to freeze all transactions from the Respondent account. The Assigned Arbitrator may add the account to a list of frozen accounts (the “ Telos Blacklist”) maintained on the Telos blockchain, which all Block Producers shall reference and exclude from validating transactions.
 
-## 32. Amending 
-This Agreement and its subordinate documents, including the human-language sections of various system contracts (the “Telos Governance Documents”), may be amended by a vote of the TLOS token holders using the “ratifyamend” contract. To ratify or amend any Telos Governance Document, any user may execute the “ratifyamend” contract, paying its contract fee, which is equal to the cost of executing the “ratifyamend” contract, in system resources, at the time it is fully executed. This fee may be paid by one Member or collected from many Members over time to execute when the full cost has been collected. Once the fee has been fully paid, the full text of the proposed new document, or the existing document in the case of ratification, shall be recorded to the Telos blockchain. No Telos Governance Documents shall be ratified or amended except by a vote of the TLOS token holders, as recorded by the “ratifyamend” contract with no less than 15% vote participation among TLOS tokens and no fewer than 10% more Yes than No votes, sustained for 30 continuous days within a 120 day.
+## 17. Execution of Arbitration Decision
 
-## 33. Severability
+An Assigned Arbitrator(s) in a case shall render their arbitration Decision in the form of a transaction or set of transactions to be appended to the Telos blockchain by the duly elected Block Producers at the time the Decision is rendered. The transactions shall be in the form of a standard value transfer transaction from Respondent to Plaintiff, a “revisecontract” action which forcibly adjusts the code of a faulty or misleading contract, or a “changekeys” action which assigns new private keys to an account that has been adjudicated to have been improperly acquired by Respondent from Plaintiff. The Assigned Arbitrator(s) shall also provide a public explanation of the rationale for the Decision. The arbitration Decision may include transactions to pay the arbitration Fee associated with the case.
+
+## 18. Enforcement of Arbitration Decisions
+
+Block Producers, having been duly provided with a valid arbitration Decision as defined in the Telos Blockchain Network Arbitration Rules and Procedures Document, shall fully enforce the Decision within 180,000 blocks (approximately 24 hours) of receipt. Every Block Producer shall be required to enforce the action and any Block Producer that has not enforced the action within 180,000 blocks (approximately 24 hours) shall be liable for penalty under the “enforcebpmins” action until the adjudication action is fully enforced.
+
+## 19. Restrictions on the Use of Sudo Powers
+
+The Block Producers have the authority to use the “sudo” command to execute commands on an account as if by the owner, or a similarly-powered “super user” command if under a different name, only as an element of the “revisecontract” action which forcibly adjusts the code of a faulty or misleading contract, or a “changekeys” action which assigns new private keys to an account that has been adjudicated to have been improperly acquired, and only in cases of an adjudication Decision entered by an Assigned Arbitrator(s) in due process of a bona fide arbitration case. In the event that a Block Producer becomes aware of an apparent theft in action, that Block Producer may use sudo powers to freeze an account for up to 180,000 blocks (approximately 24 hours). After this time, the sudo freezing action shall expire or be removed by the Block Producer unless an Elected Arbitrator issues an order extending the freeze action.
+
+## 20. Voting
+
+Telos Members may vote to elect block producer and arbitrator candidates as described in this Agreement. Each Member may vote the entire number of TLOS tokens in any account they control via private keys. Members may vote for up to 30 block producer candidates and 30 arbitrator candidates at any time and each vote for any candidate will share the same weight as that of all the other candidates of the same type, either block producer or arbitrator candidates. All votes, whether cast directly or by proxy shall have their voting weight reduced according to a non-linear equation known as inverse-weighted voting, as expressed in the Telos code, whereby the value of a vote is reduced when fewer than the maximum amount of allowed candidates are cast.
+
+## 21. Proxies
+
+Members may delegate their votes to another Member as a voting proxy (“Proxy”) using the “proxy” contract included in the EOSIO software. Only a token’s true beneficial owner or a voting Proxy recorded on the blockchain may vote tokens. Any Member holding tokens in trust for another beneficial owner, such as a centralized exchange, may not cast votes for or assign to a Proxy such tokens.
+
+## 22. Initial Token Allocation
+
+The initial distribution of TLOS tokens on the Telos network (“Telos Initial Distribution”) will follow the EOS ERC-20 token snapshot as recorded June 2, 2018 from records of the EOS token sale as recorded on the Ethereum blockchain (the “EOS Snapshot”) on a 1:1 basis. The Telos Initial Distribution will create all accounts that were included on the EOS Snapshot with the same account names and public keys that match except that the prefix “TLOS” may be used instead of “EOS”. These accounts will each be recorded as having the same number of TLOS tokens as the number of EOS on the corresponding account in the EOS Snapshot, except that each account that has a balance of over 40,000 tokens will receive exactly 40,000 TLOS tokens. EOS token holders who provide cryptographically signed messages requesting new keys for their accounts in the publicly documented process shall have their keys changed up until the time of network launch. New Telos accounts will be created to fund the Telos Foundation which will receive 6,000,000 TLOS tokens, the Telos Founders’ Rewards Pool which will receive 6,000,000 TLOS tokens, the Telos Community Rewards Pool which will receive 1,000,000 TLOS tokens, and the Telos Exchange Token Reserve Fund which will receive 140,279,973 TLOS tokens, and ________ TLOS tokens to provide the initial account creation distribution. No value was accepted in exchange for tokens in the Telos Initial Distribution.
+
+## 23. Requirement to Opt-in as a Member
+
+The Telos Initial Distribution will include all accounts from the EOS Snapshot. However, it is unknown which EOS Snapshot account owners may wish to opt in and become Members of the Telos network. Because all token holders must agree to become Members by accepting the mutual representations of this Agreement, accounts that have no transactions 63,000,000 blocks (approximately 365 days) after the activation of the Telos network are subject to deletion by the Block Producers at that time or in the future, provided no transactions have yet been made. Tokens in any deleted accounts will be deleted from the blockchain.
+
+## 24. Worker Proposal Fund
+
+A value equal to the daily share of 1.5% annual inflation of the entire value of the Telos blockchain as measured in TLOS tokens shall be deposited to an account on the Telos Network with the account name of “eosio.savings” (the “Worker Proposal Fund”) each day.
+
+## 25. Worker Proposal Submission
+
+After the total amount of TLOS tokens registered to vote exceeds 1% of the total TLOS supply, any Telos Member or group of Members may submit proposals for the usage of these accumulated funds by executing the “submission” action of the “workerproposal” contract (the “Proposer”) and providing the required information including, at least, a full description of the proposal, a link to a fixed source of information, and the exact deposit transaction, including deposit account or accounts, that will occur should the proposal be accepted by the Telos Members.
+
+## 26. Worker Proposal Voting Period
+
+Once a proposal is submitted, there will be a period of 5,000,000 blocks (approximately 29 days) in which a proposal may be voted (the “Voting Period”).
+
+## 27. Worker Proposal Submission Fee
+
+A submission fee of 3% of the requested amount with a minimum of 50 TLOS will be required as part of the submission. The fee shall be refunded to the Proposer if the worker proposal reaches a minimum threshold of 20% YES vote amongst all votes and a minimum voting total (YES or NO) of at least 0.1% of all TLOS tokens at the end of the Voting Period.
+
+## 28. Passage of a Worker Proposal
+
+Any Worker Proposal that receives a simple majority of YES votes and a minimum threshold of 5.0% of votes from all votable TLOS tokens at the conclusion of the Voting Period shall be an “Accepted Proposal.”
+
+## 29. Execution of a Worker Proposal
+
+Each Accepted Proposal shall have the transaction described in the proposal execute immediately, provided sufficient funds exist in the Worker Proposal Fund account. If sufficient funds do not exist, transactions from Accepted Proposals will be queued to execute as soon as the Worker Proposal Fund account accumulates sufficient funds, in the order accepted. Accepted Proposals that include multiple cycles will recalculate the total votes and percentage tally at the beginning of each new cycle of 5,000,000 blocks (approximately 29 days). Proposals that continue to qualify will again be funded at the beginning of the new cycle. Proposals that no longer qualify will not be paid for that cycle, but may be paid in a future cycle, up to the number of cycles listed in the initial proposal. Voters may change or withdraw their vote from any proposal at any time.
+
+## 30. Failure to Provide Worker Proposal Deliverables
+
+The Block Producers may, by 2/3+1 majority vote, elect to file an arbitration case against the Proposer on behalf of the Worker Proposal Fund account to reclaim some or all of the disbursed funds from an Accepted Proposal that has been executed, but where the proposed work appears not to have been performed as described in the Proposal. The arbitration will proceed with Telos Elected Arbitrators and any Decision will be transmitted to the Worker Proposal Fund account.
+
+## 31. No Fiduciary
+
+No Member shall have fiduciary responsibility to support the value of the TLOS token. The Members do not authorize anyone to hold assets, borrow, nor contract on behalf of the Members collectively. The Telos Blockchain Network has no owners, managers nor fiduciaries.
+
+## 32. Publication to the Telos Blockchain
+
+Each Member grants all other Members an irrevocable license to view transactions as recorded and published to the blockchain.
+
+## 33. Responsibility for Information
+
+The Telos Network shall bear no responsibility or enforcement role for any information, data, or content improperly recorded on the blockchain. Any penalties or Decisions for improperly recorded information, data, or content shall be the sole responsibility of the Member that posted it.
+
+## 34. Restitution
+
+Each Member agrees that penalties for breach of this contract may include, but are not limited to, fines, loss of account, and any other measures decided by Elected Arbitrators as defined in this Agreement.
+
+## 35. Developers
+
+Each Member who makes available a smart contract on the Telos blockchain (a “Developer”) may designate original elements of their contracts as either open source or proprietary code. Each smart contract shall be documented with human-language terms stating the intent of all parties and naming the arbitration forum that will resolve disputes arising from that contract. Developers who designate contracts as proprietary code may claim that code as intellectual property and may initiate arbitration actions against those who violate their control of their intellectual property for restraint and/or restitution.
+
+## 36. Prevailing Language
+
+The Developer of a contract may offer its human-language terms in multiple language translations. When human-language terms are available in more than one language, the Member executing the contract may select the translation that they wish to execute. The human language of the terms that was provided by the Developer and selected by the Member executing the contract will prevail where there are ambiguities between this version of the terms and other versions. In scenarios where the contract language or contract selection by the Member is ambiguous, the Elected Arbitrator will have the authority to select the contract used in the dispute.
+
+## 37. Recording of Agreement
+
+The text of this Agreement or the most currently ratified or amended version of the Agreement shall be recorded on the Telos blockchain and after at least every 200,000 blocks a pointer to the block containing the text of this Agreement shall be included in the block. Validating any block shall be deemed a further acceptance of all terms of this contract.
+
+## 38. Amending
+
+The Telos Governance Documents may be amended by a vote of the TLOS token holders using the “ratifyamend” contract. To ratify or amend any Telos Governance Document, any user may execute the “ratifyamend” contract, paying its contract fee of 700 TLOS (the “Ratify/Amend Contract Fee”), which may be returned if the contract receives a minimum of 1% of votes from all TLOS voters. This fee may be paid by one Member or collected from many Members over time to execute when the full cost has been collected. Once the fee has been fully paid, the full text of the proposed new document, or the existing document in the case of ratification, shall be recorded to the Telos blockchain. No Telos Governance Documents shall be ratified or amended except by a vote of the TLOS token holders, as recorded by the “ratifyamend” contract with no less than 15% vote participation among votable TLOS tokens and no fewer than 10% more Yes than No votes, at the end of a 15,000,000 block voting period (approximately 3 months).
+
+## 39. Severability
+
 If any part of this Agreement is declared unenforceable or invalid, the remainder will continue to be valid and enforceable. No part of this Agreement is to be given higher importance than any other due to its ordinal position within the document.
 
-## 34. Termination
-A Member is automatically released from all revocable obligations under this Agreement three years after the that Member has sold or otherwise relinquished all TLOS tokens. No member shall be released from valid arbitration judgements entered against them for any period of time.
+## 40. Termination
 
-## 35. Developer Liability
-The Telos network uses “open source” software defined as software which has been authored by single or separate authors who do not retain proprietary ownership to said software. Members agree to hold Developers of all open source software exempt of liability for unintentional mistakes made in the expression of contractual intent, whether or not said mistakes were due to actual or perceived negligence.
+A Member is automatically released from all revocable obligations under this Agreement three years after the Member has sold or otherwise relinquished all TLOS tokens. Any arbitration cases already filed against the Member shall proceed and the Decision shall be enforced. Valid arbitration Decisions entered against a Member shall persist indefinitely in case the Member once again interacts with the network.
 
-## 36. Consideration
+## 41. Developer Liability
+
+The Telos network uses “Free and Open Source Software” defined as software which has been authored by single or separate authors who do not retain proprietary ownership to said software and make its source code freely available on a public repository. Members agree to hold Developers of all open source software exempt of liability for mistakes, errors, or breach of contract made in the expression of contractual intent, whether or not said mistakes were due to actual or perceived negligence.
+
+## 42. Grammar
+
+Any noun in this document used in the singular form shall also apply in the plural form and vice versa. Likewise, any masculine or feminine reference shall also apply in the opposite gender or neutral tense.
+
+## 43. Consideration
+
 All rights and obligations under this Agreement are mutual and reciprocal and of equally significant value and cost to all parties.
 
-## 37. Acceptance
-A contract is deemed accepted when a member signs a transaction which incorporates a TAPOS proof of a block whose implied state incorporates an ABI of said contract and said transaction is incorporated into the blockchain.
+## 44. Acceptance
 
-## 38. Counterparts
+A contract is deemed accepted when a Member signs a transaction which incorporates a Transaction as Proof of Stake (TAPOS) proof of a block whose implied state incorporates an Application Binary Interface (ABI) of said contract and said transaction is incorporated into the blockchain.
+
+## 45. Counterparts
+
 This Agreement may be executed in any number of counterparts, each of which when executed and delivered shall constitute a duplicate original, but all counterparts together shall constitute a single agreement.
 
-## 39. Complete Agreement
-This Agreement is accepted as complete and needs no further ratification to be valid and enforceable. A method for ratifying this Agreement has been included in the Agreement and Telos network code in the form of the “ratifyamend” contract, however, such ratification is not required for this Agreement to be enforceable and a failure to ratify the Agreement, in the event the “ratifyamend” contract is executed, does not nullify the acceptance, validity, or enforceability of this Agreement.
+## 46. Complete Agreement
+
+This Agreement is accepted as complete and needs no further ratification to be valid and enforceable. A method for ratifying this Agreement has been included in the Agreement and Telos network code in the form of the “ratifyamend” contract, however, such ratification is not required for this Agreement to be enforceable and in the event the “ratifyamend” contract is executed, a failure to successfully ratify the Agreement does not nullify the acceptance, validity, or enforceability of this Agreement.
