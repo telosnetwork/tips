@@ -12,12 +12,19 @@ detailed explanation.
 Number             | Title                                                    | Owner             | Type           | Status
 -------------------|----------------------------------------------------------|-------------------|----------------|--------
 [1](tip-0001.md)  | TIP Purpose and Guidelines | Robert Konsdorf      | Informational  | Draft
-[2](tip-0002.md)  | A Bounty System for Slicing the Telos Founders Rewards Pool Proportionally Amongst Contributors | Robert Konsdorf  | Informational | Draft
+[2](tip-0002.md)  | A Bounty System for Slicing the Telos Founders Rewards Pool Proportionally Amongst Contributors | Robert Konsdorf  | Informational | Adopted
 [3](tip-0003.md)  | Establishment of common-use snapshots for airgrabs | Jesse Schulman | Informational | Draft
 [4](tip-0004.md)  | TIP-4 Premium names and name squatting prevention | Josep Rosich | Protocol | Draft
 [5](tip-0005.md)  | TIP-5 Single Token Registry Standard | Craig Branscom | Protocol | Draft
-[7](tip-0007.md)  | Establishment and Rules of the Telos Community Rewards Pool (formerly TIP-1B | Douglas Horn | Informational | Draft
+[7](tip-0007.md)  | Establishment and Rules of the Telos Community Rewards Pool (formerly TIP-1B) | Douglas Horn | Informational | Adopted
 [8](tip-0008.md)  | The First Sustainable Blockchain | Sukesh Kumar Tedla | Informational | Draft
-[9](tip-0009.md)  | Telos “Original” Snapshot Creation | Douglas Horn | Protocol | Draft
-[10](tip-0010.md)  | Telos Chain Activation Process | Douglas Horn | Protocol | Draft
-[11](tip-0011.md)  | TLOS Token Exchange Reserve | Douglas Horn | Protocol | Draft
+[9](tip-0009.md)  | Telos “Original” Snapshot Creation | Douglas Horn | Protocol | Adopted
+[10](tip-0010.md)  | Telos Chain Activation Process | Douglas Horn | Protocol | Adopted
+[11](tip-0011.md)  | TLOS Token Exchange Reserve | Douglas Horn | Protocol | Adopted
+[12](tip-0013.md)  | Lower the maximum airdrop in the Telos Initial Distribution from 40,000 TLOS to 20,000 TLOS per EOS wallet | Ian Panchevre | Protocol | Draft
+[13](tip-0014.md)  | Increase the Telos Founders’ Reward Pool from 6 million TLOS to 25 million TLOS | Ian Panchevre | Protocol | Draft
+[14](tip-0015.md)  | Increase funding for the Telos Foundation from 6 million TLOS to 20 million TLOS | Ian Panchevre | Protocol | Draft
+[15](tip-0016.md)  | Fund a “give away” contest of 10 million TLOS | Ian Panchevre | Protocol | Draft
+[16](tip-0017.md)  | Capitalize the Worker Proposal Fund with 10 million TLOS upon launch | Ian Panchevre | Protocol | Draft
+[17](tip-0018.md)  | Frontload the TLOS inflation schedule | Ian Panchevre | Protocol | Draft
+[18](tip-0019.md)  | Set a 1-year expiration date for unclaimed TLOS in the Exchange Token Reserve Fund | Ian Panchevre | Protocol | Draft
