@@ -40,3 +40,5 @@ Number             | Title                                                    | 
 [17](tip-0017.md)  | Capitalize the Worker Proposal Fund with 10 million TLOS upon launch | Ian Panchevre | Protocol | Draft
 [18](tip-0018.md)  | Frontload the TLOS inflation schedule | Ian Panchevre | Protocol | Draft
 [19](tip-0019.md)  | Set a 1-year expiration date for unclaimed TLOS in the Exchange Token Reserve Fund | Ian Panchevre | Protocol | Draft
+[21](tip-0021.md) | ABP Commission | Jerry Huff | Informative | Draft
+[22](tip-0022.md) | Initial RAM buy yo create accounts | J.T, Jesse, Jerry |Informative | Draft
