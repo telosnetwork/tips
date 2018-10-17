@@ -42,3 +42,4 @@ Number             | Title                                                    | 
 [19](tip-0019.md)  | Set a 1-year expiration date for unclaimed TLOS in the Exchange Token Reserve Fund | Ian Panchevre | Protocol | Draft
 [21](tip-0021.md) | ABP Commission | Jerry Huff | Informative | Draft
 [22](tip-0022.md) | Initial RAM buy yo create accounts | J.T, Jesse, Jerry |Informative | Draft
+[23](tip-0023.md) | Increase block producer inflation on a one year schedule | Douglas Horn | Protocol | Draft
