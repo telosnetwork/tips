@@ -33,13 +33,13 @@ Number             | Title                                                    | 
 [10](tip-0010.md)  | Telos Chain Activation Process | Douglas Horn | Protocol | Adopted
 [11](tip-0011.md)  | TLOS Token Exchange Reserve | Douglas Horn | Protocol | Adopted
 [12](tip-0012.md)  | A mechanism for establishing director salaries for the Telos Foundation | Adam Zientarski, Ian Panchevre | Informational | Draft
-[13](tip-0013.md)  | Lower the maximum airdrop in the Telos Initial Distribution from 40,000 TLOS to 20,000 TLOS per EOS wallet | Ian Panchevre | Protocol | Draft
-[14](tip-0014.md)  | Increase the Telos Founders’ Reward Pool from 6 million TLOS to 25 million TLOS | Ian Panchevre | Protocol | Draft
-[15](tip-0015.md)  | Increase funding for the Telos Foundation from 6 million TLOS to 20 million TLOS | Ian Panchevre | Protocol | Draft
-[16](tip-0016.md)  | Fund a “give away” contest of 10 million TLOS | Ian Panchevre | Protocol | Draft
-[17](tip-0017.md)  | Capitalize the Worker Proposal Fund with 10 million TLOS upon launch | Ian Panchevre | Protocol | Draft
-[18](tip-0018.md)  | Frontload the TLOS inflation schedule | Ian Panchevre | Protocol | Draft
-[19](tip-0019.md)  | Set a 1-year expiration date for unclaimed TLOS in the Exchange Token Reserve Fund | Ian Panchevre | Protocol | Draft
-[21](tip-0021.md) | ABP Commission | Jerry Huff | Informative | Draft
-[22](tip-0022.md) | Initial RAM buy yo create accounts | J.T, Jesse, Jerry |Informative | Draft
+[13](tip-0013.md)  | Lower the maximum airdrop in the Telos Initial Distribution from 40,000 TLOS to 20,000 TLOS per EOS wallet | Ian Panchevre | Protocol | Declined
+[14](tip-0014.md)  | Increase the Telos Founders’ Reward Pool from 6 million TLOS to 25 million TLOS | Ian Panchevre | Protocol | Declined
+[15](tip-0015.md)  | Increase funding for the Telos Foundation from 6 million TLOS to 20 million TLOS | Ian Panchevre | Protocol | Withdrawn
+[16](tip-0016.md)  | Fund a “give away” contest of 10 million TLOS | Ian Panchevre | Protocol | Withdrawn
+[17](tip-0017.md)  | Capitalize the Worker Proposal Fund with 10 million TLOS upon launch | Ian Panchevre | Protocol | Withdrawn
+[18](tip-0018.md)  | Frontload the TLOS inflation schedule | Ian Panchevre | Protocol | Withdrawn
+[19](tip-0019.md)  | Set a 1-year expiration date for unclaimed TLOS in the Exchange Token Reserve Fund | Ian Panchevre | Protocol | Withdrawn
+[21](tip-0021.md) | ABP Commission | Jerry Huff | Informative | Withdrawn
+[22](tip-0022.md) | Initial RAM buy yo create accounts | J.T, Jesse, Jerry |Informative | Adopted
 [23](tip-0023.md) | Increase block producer inflation on a one year schedule | Douglas Horn | Protocol | Draft
