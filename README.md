@@ -41,5 +41,5 @@ Number             | Title                                                    | 
 [18](tip-0018.md)  | Frontload the TLOS inflation schedule | Ian Panchevre | Protocol | Withdrawn
 [19](tip-0019.md)  | Set a 1-year expiration date for unclaimed TLOS in the Exchange Token Reserve Fund | Ian Panchevre | Protocol | Withdrawn
 [21](tip-0021.md) | ABP Commission | Jerry Huff | Informative | Withdrawn
-[22](tip-0022.md) | Initial RAM buy yo create accounts | J.T, Jesse, Jerry |Informative | Adopted
+[22](tip-0022.md) | Initial RAM buy to create accounts | J.T, Jesse, Jerry |Informative | Adopted
 [23](tip-0023.md) | Increase block producer inflation on a one year schedule | Douglas Horn | Protocol | Draft
