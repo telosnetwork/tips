@@ -12,11 +12,12 @@ detailed explanation.
 Document           | Title                                                    | Status
 -------------------|----------------------------------------------------------|------------------
 [TBNOA](TelosOperatingAgreement.md)  | Telos Blockchain Network Operating Agreement | Adopted
-[TBNARP](TBNARP.md) | Telos Blockchain Network Arbitration Rules and Procedures | Draft
-[Regproducer](Regproducer.md) | Telos "regproducer" Contract Human Language Terms | Proposed for vote
-[BPMinReq](BPMinReq.md) | Block Producer Minimum Requirements | Proposed for vote
-[Regarb](Regarb.md) | Telos "regarb" Contract Human Language Terms | Draft
-[ArbMinReq](ArbMinReq.md) | Arbitrator Minimum Requirements | Draft
+[TBNARP](TBNARP.md) | Telos Blockchain Network Arbitration Rules and Procedures | Adopted
+[Regproducer](Regproducer.md) | Telos "regproducer" Contract Human Language Terms | Adopted
+[BPMinReq](BPMinReq.md) | Block Producer Minimum Requirements | Adopted
+[Regarb](Regarb.md) | Telos "regarb" Contract Human Language Terms | Adopted
+[ArbMinReq](ArbMinReq.md) | Arbitrator Minimum Requirements | Adopted
+[DataProtect](DataProtectionPolict.md) | Telos Blockchain Network Data Protection Policy | Adopted
 
 # Available TIPs
 
@@ -43,3 +44,5 @@ Number             | Title                                                    | 
 [21](tip-0021.md) | ABP Commission | Jerry Huff | Informative | Withdrawn
 [22](tip-0022.md) | Initial RAM buy to create accounts | J.T, Jesse, Jerry |Informative | Adopted
 [23](tip-0023.md) | Increase block producer inflation on a one year schedule | Douglas Horn | Protocol | Draft
+[24](tip-0024.md) | Adequately Rewarding Telos Contributors | Michael Gucci, MD | Protocol | Draft
+[25](tip--025.md) | Contribute unclaimed TCRP funds to free Telos account creation fund | Douglas Horn | Protocol | Draft
