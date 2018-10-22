@@ -47,3 +47,4 @@ Number             | Title                                                    | 
 [24](tip-0024.md) | Adequately Rewarding Telos Contributors | Michael Gucci, MD | Protocol | Draft
 [25](tip-0025.md) | Contribute unclaimed TCRP funds to free Telos account creation fund | Douglas Horn | Protocol | Draft
 [26](tip-0026.md) | TFVT Distribution | Jerry Huff | Protocol | Draft
+[27](tip-0027.md) | Creating RAM reserve for RAM Administration| Jan Smit | Protocol | Draft
