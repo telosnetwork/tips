@@ -1,0 +1,59 @@
+    Title: TIP 0028 — Modifying the TLOS token economy
+    Authors: Amplified Telos (Ian Panchèvre / telos@amplified.software)
+    Co-sponsors: TelosDAC, BlindBlocArt, TELOS/EOS Sweden, InfinityBloc
+    Status: Draft
+    Type: Protocol
+    Created: 2018–10–23
+
+# Abstract
+
+To ensure a healthy network that is sufficiently capitalized, Amplified Telos proposes the following changes to the TLOS token economy.
+
+1) Increase the Telos Founders’ Reward Pool from 6 million TLOS to 12 million TLOS
+
+2) Increase funding for the Telos Foundation from 6 million TLOS to 12 million TLOS
+
+3) Capitalize the Worker Proposal Fund with 1 million TLOS upon launch
+
+4) Frontload the TLOS inflation schedule for 1 year
+
+5) Set a 1-year expiration date for the unclaimed TLOS in the Exchange Token Reserve Fund
+
+# Motivation
+
+It is critical that the various stakeholders and systems that support Telos are appropriately compensated. Otherwise, if Telos is insufficiently capitalized, then it will struggle to grow and retain a robust network.
+
+# Rationale
+
+For provision 1, we believe that the Founders Reward Pool ought to double in size for several reasons: (i) the pre-launch period was initially expected to last about two months, and it now appears it will last closer to six months; (ii) initially the launch group intended to include six different contributors, and now there are over one hundred contributors; (iii) doubling the size of the pool will help launch group contributors recover their material investments without unduly jeopardizing the egalitarian nature of the token economy.
+
+For provision 2, we believe that the Telos Foundation deserves more working capital. In just the past few weeks, we have identified several new responsibilities and expenses that the foundation will have to undertake (e.g., purchasing indemnification coverage for contributing attorneys). With more capital, the Telos Foundation will have a greater chance of surviving a protracted bear market.
+
+For provision 3, we recognize that the Worker Proposal System is a critical element of the overall Telos Blockchain Network. The WPS finances ongoing engineering, marketing, and business efforts in support of Telos. Unfortunately, the WPS will be broke upon network launch. Capitalizing it with 1 million TLOS will provide approximately 10 weeks worth of capital upfront.
+
+For provision 4, we recognize that the near-term prospects of the broader crypto-economy remain bearish. Accordingly, we believe that front-loading payments to block producers during year 1 is appropriate and necessary.
+
+For provision 5, we want to create a sense of urgency among exchanges and their users to enable support for Telos. We believe that 1 year is sufficient time for exchanges to support Telos.
+
+# Specification
+
+By passing TIP 28, we commit to modifying the language in Paragraph 22 of the Telos Blockchain Network Operating Agreement(TBNOA) to read as follows:
+
+`The initial distribution of TLOS tokens on the Telos network (“Telos Initial Distribution”) will follow the EOS ERC-20 token snapshot as recorded on June 2, 2018 from records of the EOS token sale as recorded on the Ethereum blockchain (the “EOS Snapshot”) on a 1:1 basis. The Telos Initial Distribution will create all accounts that were included on the EOS Snapshot with the same account names and public keys that match except that the prefix “TLOS” may be used instead of “EOS”. These accounts will each be recorded as having the same number of TLOS tokens as the number of EOS on the corresponding account in the EOS Snapshot, except that each account that has a balance of over 40,000 tokens will receive exactly 40,000 TLOS tokens. EOS token holders who provide cryptographically signed messages requesting new keys for their accounts in the publicly documented process shall have their keys changed up until the time of network launch. New Telos accounts will be created to fund the Telos Founders Rewards Pool which will receive 12,000,000 TLOS tokens, the Telos Foundation which will receive 12,000,000 TLOS tokens, the Worker Proposal Fund which will receive 1,000,000 TLOS, and the Telos Community Rewards Pool which will receive 1,000,000 TLOS tokens. Moreover, the Telos Exchange Token Reserve Fund will receive 117,766,908.88 TLOS tokens, which may be distributed to exchanges that enable support for TLOS within one calendar year after the launch of the Telos mainnet. Finally, ____ TLOS will be created to provide the initial account creation distribution.`
+
+Moreover, TIP 28 will change BP income and the TLOS inflation schedule during year 1 as follows:
+
+Month	|	Inflation Rate	|	Monthly BP Income	
+------|-----------------|-------------------
+1-4	|	4%		|	30,750	TLOS	
+5-8	|	3%		|	24,950	TLOS	
+9-12	|	2%		|	17,900 TLOS		
+13+	|	1%		|	9,600 TLOS			
+
+# Discussion
+
+(Discussion period is open.)
+
+# Copyright
+
+This document is in the public domain.
