@@ -36,15 +36,16 @@ Number             | Title                                                    | 
 [12](tip-0012.md)  | A mechanism for establishing director salaries for the Telos Foundation | Adam Zientarski, Ian Panchevre | Informational | Draft
 [13](tip-0013.md)  | Lower the maximum airdrop in the Telos Initial Distribution from 40,000 TLOS to 20,000 TLOS per EOS wallet | Ian Panchevre | Protocol | Declined
 [14](tip-0014.md)  | Increase the Telos Founders’ Reward Pool from 6 million TLOS to 25 million TLOS | Ian Panchevre | Protocol | Declined
-[15](tip-0015.md)  | Increase funding for the Telos Foundation from 6 million TLOS to 20 million TLOS | Ian Panchevre | Protocol | Withdrawn
-[16](tip-0016.md)  | Fund a “give away” contest of 10 million TLOS | Ian Panchevre | Protocol | Withdrawn
-[17](tip-0017.md)  | Capitalize the Worker Proposal Fund with 10 million TLOS upon launch | Ian Panchevre | Protocol | Withdrawn
-[18](tip-0018.md)  | Frontload the TLOS inflation schedule | Ian Panchevre | Protocol | Withdrawn
-[19](tip-0019.md)  | Set a 1-year expiration date for unclaimed TLOS in the Exchange Token Reserve Fund | Ian Panchevre | Protocol | Withdrawn
+[15](tip-0015.md)  | Increase funding for the Telos Foundation from 6 million TLOS to 20 million TLOS | Ian Panchevre | Protocol | Declined
+[16](tip-0016.md)  | Fund a “give away” contest of 10 million TLOS | Ian Panchevre | Protocol | Declined
+[17](tip-0017.md)  | Capitalize the Worker Proposal Fund with 10 million TLOS upon launch | Ian Panchevre | Protocol | Declined
+[18](tip-0018.md)  | Frontload the TLOS inflation schedule | Ian Panchevre | Protocol | Declined
+[19](tip-0019.md)  | Set a 1-year expiration date for unclaimed TLOS in the Exchange Token Reserve Fund | Ian Panchevre | Protocol | Declined
 [21](tip-0021.md) | ABP Commission | Jerry Huff | Informative | Withdrawn
 [22](tip-0022.md) | Initial RAM buy to create accounts | J.T, Jesse, Jerry |Informative | Adopted
-[23](tip-0023.md) | Increase block producer inflation on a one year schedule | Douglas Horn | Protocol | Draft
+[23](tip-0023.md) | Increase block producer inflation on a one year schedule | Douglas Horn | Protocol | Adopted
 [24](tip-0024.md) | Adequately Rewarding Telos Contributors | Michael Gucci, MD | Protocol | Draft
 [25](tip-0025.md) | Contribute unclaimed TCRP funds to free Telos account creation fund | Douglas Horn | Protocol | Draft
 [26](tip-0026.md) | TFVT Distribution | Jerry Huff | Protocol | Draft
 [27](tip-0027.md) | Creating RAM reserve for RAM Administration| Jan Smit | Protocol | Draft
+[28](tip-0028.md) | Modifying the TLOS token economy | Ian Panchevre | Protocol | Draft
