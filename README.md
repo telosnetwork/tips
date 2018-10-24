@@ -33,7 +33,7 @@ Number             | Title                                                    | 
 [9](tip-0009.md)  | Telos “Original” Snapshot Creation | Douglas Horn | Protocol | Adopted
 [10](tip-0010.md)  | Telos Chain Activation Process | Douglas Horn | Protocol | Adopted
 [11](tip-0011.md)  | TLOS Token Exchange Reserve | Douglas Horn | Protocol | Adopted
-[12](tip-0012.md)  | A mechanism for establishing director salaries for the Telos Foundation | Adam Zientarski, Ian Panchevre | Informational | Draft
+[12](tip-0012.md)  | A mechanism for establishing director salaries for the Telos Foundation | Adam Zientarski, Ian Panchevre | Informational | Adopted
 [13](tip-0013.md)  | Lower the maximum airdrop in the Telos Initial Distribution from 40,000 TLOS to 20,000 TLOS per EOS wallet | Ian Panchevre | Protocol | Declined
 [14](tip-0014.md)  | Increase the Telos Founders’ Reward Pool from 6 million TLOS to 25 million TLOS | Ian Panchevre | Protocol | Declined
 [15](tip-0015.md)  | Increase funding for the Telos Foundation from 6 million TLOS to 20 million TLOS | Ian Panchevre | Protocol | Declined
