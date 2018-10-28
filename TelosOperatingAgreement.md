@@ -1,5 +1,9 @@
-# Telos Blockchain Network Operating Agreement
+    Title: Telos Blockchain Network Operating Agreement
+    Authors: Mark Cohen, Beth Farnham, Azad Halim, Jim Hewitt, Douglas Horn, Syed Mushabbar Sadiq, Jan Smit, Sukesh Kumar Tedla, Adam Zientarski
+    Adoption: Unanimously Approved and Adopted by the Telos Contributors Group - October 5, 2018 17:00 UTC. | Amended by Telos Contributors Group - October 26, 2018 16:00 UTC
+    Voting: Unanimous | Yes - 20, No - 0, Abstain - 0
 
+# Telos Blockchain Network Operating Agreement
 
 ## 1. Preamble
 
@@ -193,15 +197,6 @@ This Agreement may be executed in any number of counterparts, each of which when
 
 This Agreement is accepted as complete and needs no further ratification to be valid and enforceable. A method for ratifying this Agreement has been included in the Agreement and Telos network code in the form of the “ratifyamend” contract, however, such ratification is not required for this Agreement to be enforceable and in the event the “ratifyamend” contract is executed, a failure to successfully ratify the Agreement does not nullify the acceptance, validity, or enforceability of this Agreement.
 
-# Adoption
-
-Unanimously Approved and Adopted by the Telos Contributors Group - October 5, 2018 17:00 UTC.
-
-Amended by Telos Contributors Group - October 26, 2018 16:00 UTC
-
-# Authors:
-
-Mark Cohen, Beth Farnham, Azad Halim, Jim Hewitt, Douglas Horn, Ian Panchevre, Syed Mushabbar Sadiq, Jan Smit, Sukesh Kumar Tedla,Adam Zientarski
  
 # Copyright:
 This document is in the public domain.
