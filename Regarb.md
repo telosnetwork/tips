@@ -7,10 +7,10 @@
 
 ## Data Structures
 
-Arbitrator account name: {{arbitrator}}
-Arbitration judges: {Judge:{name}, Languages of proficiency {language:{language}},
-identity_provider_service{idprovider}, ID_hash {idhash}}
-Arbitrator ownership information {owner:{name}, percentage_owned{percentage}, country of residence/establishment {country},  identity_provider_service{idprovider}, ID_hash {idhash}}
+    Arbitrator account name: {{arbitrator}}
+    Arbitration judges: {Judge:{name}, Languages of proficiency {language:{language}},
+    identity_provider_service{idprovider}, ID_hash {idhash}}
+    Arbitrator ownership information {owner:{name}, percentage_owned{percentage}, country of residence/establishment {country}, identity_provider_service{idprovider}, ID_hash {idhash}}
  
 ## 1. Intent of Action - {{ regarb }}
 
