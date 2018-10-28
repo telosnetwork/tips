@@ -48,5 +48,5 @@ Number             | Title                                                    | 
 [25](tip-0025.md) | Contribute unclaimed TCRP funds to free Telos account creation fund | Douglas Horn | Protocol | Adopted
 [26](tip-0026.md) | TFVT Distribution | Jerry Huff | Protocol | Adopted
 [27](tip-0027.md) | Creating RAM reserve for RAM Administration| Jan Smit | Protocol | Declined - Revote
-[28](tip-0028.md) | Modifying the TLOS token economy | Ian Panchevre | Protocol | Draft
+[28](tip-0028.md) | Modifying the TLOS token economy | Ian Panchevre | Protocol | Withdrawn
 [29](tip-0029.md) | Impose a cap on the TFRP rewards paid to any one contributor group | Azad Halim | Protocol | Draft
