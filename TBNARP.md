@@ -1,3 +1,8 @@
+    Title: Telos Blockchain Network Arbitration Rules and Procedures
+    Authors: Justin Buck, Mark Cohen, Beth Farnham, Azad Halim, Jim Hewitt, Douglas Horn, Syed Mushabbar Sadiq, Jan Smit, Sukesh Kumar Tedla, Adam Zientarski
+    Adoption: Adopted by Telos Contributors Group 2018/10/12 | Amended by Telos Contributors Group - October 26, 2018 16:00 UTC
+    Voting: Voted: Yes - 26, No - 0, Abstain - 0 | Yes - 21, Abstain - 7
+
 # Telos Blockchain Network Arbitration Rules and Procedures
 
 ## 1. Arbitration on the Telos Blockchain Network
@@ -240,14 +245,6 @@ Breach of TBNOA | 0 | 2,000 | 6,000 |  30 days
 Accused Block Producer | 0 | 1,000 | 1,000 | 3 days 
 Miscellaneous | 40,000 | 500 | 1,000 | 30 days 
 
-# Adoption
-
-Adopted by Telos Contributors Group 2018/10/12  Voted: Yes - 26, No - 0, Abstain - 0
-
-Amended by Telos Contributors Group - October 26, 2018 16:00 UTC
-
-Authors:
-Justin Buck, Mark Cohen, Beth Farnham, Azad Halim, Jim Hewitt, Douglas Horn, Syed Mushabbar Sadiq, Jan Smit, Sukesh Kumar Tedla, Adam Zientarski
 
 # Copyright
 
