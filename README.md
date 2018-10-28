@@ -17,7 +17,7 @@ Document           | Title                                                    | 
 [BPMinReq](BPMinReq.md) | Block Producer Minimum Requirements | Adopted
 [Regarb](Regarb.md) | Telos "regarb" Contract Human Language Terms | Adopted
 [ArbMinReq](ArbMinReq.md) | Arbitrator Minimum Requirements | Adopted
-[DataProtect](DataProtectionPolict.md) | Telos Blockchain Network Data Protection Policy | Adopted
+[DataProtect](DataProtectionPolicy.md) | Telos Blockchain Network Data Protection Policy | Adopted
 
 # Available TIPs
 
