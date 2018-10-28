@@ -44,8 +44,9 @@ Number             | Title                                                    | 
 [21](tip-0021.md) | ABP Commission | Jerry Huff | Informative | Withdrawn
 [22](tip-0022.md) | Initial RAM buy to create accounts | J.T, Jesse, Jerry |Informative | Adopted
 [23](tip-0023.md) | Increase block producer inflation on a one year schedule | Douglas Horn | Protocol | Adopted
-[24](tip-0024.md) | Adequately Rewarding Telos Contributors | Michael Gucci, MD | Protocol | Draft
-[25](tip-0025.md) | Contribute unclaimed TCRP funds to free Telos account creation fund | Douglas Horn | Protocol | Draft
-[26](tip-0026.md) | TFVT Distribution | Jerry Huff | Protocol | Draft
-[27](tip-0027.md) | Creating RAM reserve for RAM Administration| Jan Smit | Protocol | Draft
+[24](tip-0024.md) | Adequately Rewarding Telos Contributors | Michael Gucci, MD | Protocol | Adopted
+[25](tip-0025.md) | Contribute unclaimed TCRP funds to free Telos account creation fund | Douglas Horn | Protocol | Adopted
+[26](tip-0026.md) | TFVT Distribution | Jerry Huff | Protocol | Adopted
+[27](tip-0027.md) | Creating RAM reserve for RAM Administration| Jan Smit | Protocol | Declined - Revote
 [28](tip-0028.md) | Modifying the TLOS token economy | Ian Panchevre | Protocol | Draft
+[29](tip-0029.md) | Impose a cap on the TFRP rewards paid to any one contributor group | Azad Halim | Protocol | Draft
