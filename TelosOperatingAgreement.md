@@ -1,7 +1,7 @@
     Title: Telos Blockchain Network Operating Agreement
     Authors: Mark Cohen, Beth Farnham, Azad Halim, Jim Hewitt, Douglas Horn, Syed Mushabbar Sadiq, Jan Smit, Sukesh Kumar Tedla, Adam Zientarski
     Adoption: Unanimously Approved and Adopted by the Telos Contributors Group - October 5, 2018 17:00 UTC. | Amended by Telos Contributors Group - October 26, 2018 16:00 UTC
-    Voting: Unanimous | Yes - 20, No - 0, Abstain - 0
+    Voting: 2018-10-05 Yes - 22, No - 0, Abstain - 0 | 2018-10-26 Yes - 20, No - 0, Abstain - 0
 
 # Telos Blockchain Network Operating Agreement
 
