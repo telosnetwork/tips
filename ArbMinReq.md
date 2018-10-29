@@ -1,4 +1,4 @@
-    Title: Telos "regarb" Human-language Contract
+    Title: Telos Blockchain Network Arbitrator Minimum Requirements
     Authors: Justin Buck, Mark Cohen, Jim Hewitt, Douglas Horn, Syed Mushabbar Sadiq, Adam Zientarski
     Adoption: Adopted by Telos Contributors Group 2018-10-12
     Voting: Yes - 25, No - 0, Abstain - 0
