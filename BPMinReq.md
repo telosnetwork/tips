@@ -1,7 +1,9 @@
     Title: Telos Block Producer Minimum Requirements
     Authors: J.T. Buice, Mark Cohen, Azad Halim, Jim Hewitt, Douglas Horn, Jerry Huff, Josep Rosich, Syed Mushabbar Sadiq, Sukesh, Adam Zientarski
-    Adoption: Adopted by Telos Contributors Group 2018-10-09
-    Voting: Yes - 25, No - 0, Abstain - 0
+    Adoption: Adopted by Telos Launch Group 2018-10-09
+    Voting: 2018-10-09 Yes - 25, No - 0, Abstain - 0 
+    Amendment: Amended by Telos Launch Group 2018-12-06
+    Voting: 2018-12-06 Yes - 33, No - 0, Abstain - 1
 
 
 # Telos Block Producer Minimum Requirements:
@@ -24,7 +26,9 @@ a. Candidate Name
           
 b. Candidate Website URL
           
-c. Candidate country of registration for registered entity or residence of primary owner if not a registered entity as 2-letter ISO country coded. Candidate server location(s)
+c. Candidate country of registration for registered entity or residence of primary owner if not a registered entity as 2-letter ISO country coded. 
+
+d. Candidate server location(s)
          
 i. Location name
                       
@@ -50,9 +54,9 @@ Disclosure of accepted third-party identification verification service and ident
 
 ### B. Practices:
 
-Sync with an approved NTP server at least once per 24 hours.
-Adoption of account blacklist maintained by the Elected Arbitrators.  
+1. Sync with an approved NTP server at least once per 24 hours.
 
+2. Adoption of account blacklist maintained by the Elected Arbitrators.  
 
 ## Phase One - Minimum Requirements
 
@@ -71,6 +75,13 @@ a.  Testnet Node
 i. Minimum RAM (per node): 8GB
           
 ii. Minimum Disk (per node): 100GB
+
+iii. A minimum of 1,200,000 blocks (approximately 7 days) of synched and registered operation of a Telos testnet block production node.
+
+iv. Ongoing operation of a synched, registered, and publicly accessible Telos testnet block production node within 500,000 blocks (approximately 70 hours).
+
+v. A maximum total of 1,000,000 blocks of Telos testnet non-operational time within the most recent 5,000,000 blocks (approximately 29 days). Enforcement of which commences at Telos mainnet block height 5,000,000.
+
    
 b.  Producing Node
 
@@ -112,7 +123,13 @@ i. Minimum RAM (per node):  =/> current set ram + 2GB
 ii. Minimum Disk (per node): 150GB
           
 iii. Firewall: Active
- 
+
+iv. A minimum of 1,200,000 blocks (approximately 7 days) of synched and registered operation of a Telos testnet block production node.
+
+v. Ongoing operation of a synched, registered, and publicly accessible Telos testnet block production node within 500,000 blocks (approximately 70 hours).
+
+vi. A maximum total of 1,000,000 blocks of Telos testnet non-operational time within the most recent 5,000,000 blocks (approximately 29 days).   
+
 b.  Staging Net Node
 
 i. Minimum RAM (per node): =/> current set ram + 2GB
@@ -120,6 +137,8 @@ i. Minimum RAM (per node): =/> current set ram + 2GB
 ii. Minimum Disk (per node): 150GB
           
 iii. Firewall: Active
+
+iv. Operation of a synched, registered, and operational staging net block producer node for a period of at least 150,000 blocks (approximately 21 hours) during the most recent staging net deployment. Any period of time that a block producer’s node is unregistered or otherwise disabled or removed as the direct result of a staging net test operation shall contribute to this minimum requirement period.
  
 c.  Producing Node
 
@@ -163,6 +182,12 @@ i. Minimum RAM (per node):  =/> current set ram + 2GB
 ii. Minimum Disk (per node): 300GB
           
 iii. Firewall: Active
+
+iv. A minimum of 1,200,000 blocks (approximately 7 days) of synched and registered operation of a Telos testnet block production node.
+
+v. Ongoing operation of a synched, registered, and publicly accessible Telos testnet block production node within 500,000 blocks (approximately 70 hours).
+
+vi. A maximum total of 1,000,000 blocks of Telos testnet non-operational time within the most recent 5,000,000 blocks (approximately 29 days).
  
 b.  Staging Net Node
 
@@ -171,7 +196,9 @@ i. Minimum RAM (per node):  =/> current set ram + 2GB
 ii. Minimum Disk (per node): 300GB
           
 iii. Firewall: Active
-            
+
+iv. Operation of a synched, registered, and operational staging net block producer node for a period of at least 150,000 blocks (approximately 21 hours) during the most recent staging net deployment. Any period of time that a block producer’s node is unregistered or otherwise disabled or removed as the direct result of a staging net test operation shall contribute to this minimum requirement period.
+
 c.  Producing Node
 
 i. Minimum RAM (per node):  =/> current set ram + 2GB
