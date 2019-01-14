@@ -12,7 +12,7 @@ The intent of this document is to clarify the minimum requirements for Block Pro
 
 The specifications stated herein are subject to revision, as well as when the network will move from stage to stage - as determined by a vote of  ⅔ + 1 of the current Block Producers at the time of the proposed revisions.
 
-Regardless of their level of participation, to participate in the TBN at any phase - Block Producers candidates are required to provide, and abide by the following:
+Regardless of their level of participation, to participate in the TBN at any phase - Block Producer candidates are required to provide, and abide by the following:
 
 ### A. Disclosures:
 
