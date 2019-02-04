@@ -25,9 +25,9 @@ Number             | Title                                                    | 
 -------------------|----------------------------------------------------------|-------------------|----------------|--------
 [1](tip-0001.md)  | TIP Purpose and Guidelines | Robert Konsdorf      | Informational  | Draft
 [2](tip-0002.md)  | A Bounty System for Slicing the Telos Founders Rewards Pool Proportionally Amongst Contributors | Robert Konsdorf  | Informational | Adopted
-[3](tip-0003.md)  | Establishment of common-use snapshots for airgrabs | Jesse Schulman | Informational | Draft
+[3](tip-0003.md)  | Establishment of common-use snapshots for airgrabs | Jesse Schulman | Informational | Adopted
 [4](tip-0004.md)  | TIP-4 Premium names and name squatting prevention | Josep Rosich | Protocol | Draft
-[5](tip-0005.md)  | TIP-5 Single Token Registry Standard | Craig Branscom | Protocol | Draft
+[5](tip-0005.md)  | TIP-5 Single Token Registry Standard | Craig Branscom | Protocol | Adopted
 [7](tip-0007.md)  | Establishment and Rules of the Telos Community Rewards Pool (formerly TIP-1B) | Douglas Horn | Informational | Adopted
 [8](tip-0008.md)  | The First Sustainable Blockchain | Sukesh Kumar Tedla | Informational | Draft
 [9](tip-0009.md)  | Telos “Original” Snapshot Creation | Douglas Horn | Protocol | Adopted
