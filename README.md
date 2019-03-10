@@ -54,3 +54,4 @@ Number             | Title                                                    | 
 [31](tip-0031.md) | Community Rewards Account Creation | Jerry Huff | Informational | Draft
 [32](tip-0032.md) | Vesting Schedule for Telos Foundation Rewards Pool Tokens | Adam Zientarski, Rob Konsdorf | Protocol | Defeated
 [33](tip-0033.md) | Voting Restrictions on Telos Foundation Rewards Pool Tokens | Adam Zientarski, Rob Konsdorf | Protocol | Withdrawn
+[34](tip-0034.md) | Sentiment Token Standard | Douglas Horn | Protocol | Draft
